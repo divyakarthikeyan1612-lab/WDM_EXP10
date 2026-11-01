@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 31-10-2026
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,16 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1242" height="637" alt="image" src="https://github.com/user-attachments/assets/e56baa98-68c2-402b-905a-c272e82e5922" />
+<img width="1140" height="661" alt="image" src="https://github.com/user-attachments/assets/010168e2-db03-4acd-8b1f-d73bbf7d0ae4" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1c986e4-1391-4fa6-bcae-c12a4412ae9d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/857e3852-0c51-4fa0-9931-fb9058a24df5" />
+
+
 
 ### Result:
+The Sentiment Analysis project was successfully implemented using RapidMiner with the Naive Bayes algorithm.
+
+The model achieved an accuracy of 49.17%, and the results were evaluated using a confusion matrix.
